@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @venkatrangarajan
 - 👀 I’m interested in applying technology to help people and society. 
 - 🌱 I’m currently learning Python and AI/ ML.
-- 💞️ I’m looking to collaborate with a buddy to quickly catch up on my programming skills. 
+- 💞️ I’m looking to collaborate to quickly ramp up programming skills. 
 - 📫 How to reach me ... venkatrangarajan5@gmail.com
 
 <!---
